@@ -1,0 +1,4 @@
+sudo recoverjpeg(disk_name_to_recover) -o ((absolute-path_location_to_save_recover_files) 
+#from this we can only recover only images...
+
+mkdir Recoverfiles;sudo recoverjpeg /dev/sdb1 -o /home/noob/Desktop/Recoverfiles
